@@ -85,8 +85,8 @@ export default function Dashboard() {
               AR
             </div>
             <div className="flex-1 min-w-0">
-              <p className="text-xs font-bold text-slate-200 truncate">Alex Rivers</p>
-              <p className="text-[10px] text-slate-500 truncate">alex@billstream.dev</p>
+              <p className="text-xs font-bold text-slate-200 truncate">Suhani </p>
+              <p className="text-[10px] text-slate-500 truncate">suhani@billstream.dev</p>
             </div>
           </div>
         </div>
@@ -123,8 +123,8 @@ export default function Dashboard() {
                   AR
                 </div>
                 <div>
-                  <p className="text-xs font-bold text-slate-200">Alex Rivers</p>
-                  <p className="text-[10px] text-slate-500">alex@billstream.dev</p>
+                  <p className="text-xs font-bold text-slate-200">Suhani</p>
+                  <p className="text-[10px] text-slate-500">suhani@billstream.dev</p>
                 </div>
               </div>
             </div>
@@ -179,7 +179,7 @@ export default function Dashboard() {
               {isProfileOpen && (
                 <div className="absolute top-full right-0 mt-2 w-48 bg-slate-950 border border-slate-850 rounded-2xl p-1.5 shadow-2xl z-50">
                   <div className="px-3 py-2 border-b border-slate-900">
-                    <p className="text-xs font-bold text-slate-300">Alex Rivers</p>
+                    <p className="text-xs font-bold text-slate-300">Suhani</p>
                     <p className="text-[10px] text-slate-500">Owner</p>
                   </div>
                   <button onClick={() => alert("Settings modal here...")} className="w-full text-left text-xs font-semibold p-2 hover:bg-slate-900 rounded-lg flex items-center gap-2 cursor-pointer mt-1 text-slate-300">
